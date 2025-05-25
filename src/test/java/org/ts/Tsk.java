@@ -26,13 +26,23 @@ public class Tsk extends BaseCls{
 		WebElement id = findId("location");
 		dropdown(id,1); 
 	}
-	 
 	@Test
 	 private void empName()
 	 {
 		 System.out.println("Sam");
 	 }
-}		 
+	private void empPhNo()
+	{
+		System.out.println("7986767676");
+	}
+}
+//<<<<<<< HEAD
+//	
+//=======
+//	
+//	
+//>>>>>>> 173579f1e6dc1fee40d7b356c3592720acb063a2
+//	 
 	
 	
 
