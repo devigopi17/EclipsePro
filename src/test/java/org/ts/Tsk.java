@@ -27,7 +27,11 @@ public class Tsk extends BaseCls{
 		dropdown(id,1); 
 	}
 	 
-	 
+	@Test
+	 private void empName()
+	 {
+		 System.out.println("Sam");
+	 }
 }		 
 	
 	
