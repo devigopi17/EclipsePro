@@ -27,6 +27,11 @@ public class Tsk extends BaseCls{
 		dropdown(id,1); 
 	}
 	 
+	
+	private void empPhNo()
+	{
+		System.out.println("7986767676");
+	}
 	 
 }		 
 	
