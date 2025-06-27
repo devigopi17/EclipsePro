@@ -26,6 +26,15 @@ public class Tsk extends BaseCls{
 		WebElement id = findId("location");
 		dropdown(id,1); 
 	}
+	
+	
+	private void tc05()
+	{
+		WebElement id = findId("tc05");
+		dropdown(id,1); 
+	}
+	
+	
 	@Test
 	 private void empName()
 	 {
